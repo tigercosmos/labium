@@ -1,0 +1,7 @@
+include_rules = [
+  "+components/drive/file_errors.h",
+  "+mojo/edk/embedder",
+  "+mojo/public",
+  "+services/identity/public",
+  "+services/service_manager/public",
+]
